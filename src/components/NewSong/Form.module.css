@@ -1,0 +1,45 @@
+input[type="file"] {
+  color: rgba(0, 0, 0, 0);
+  background-color: white;
+}
+
+.form {
+  font-family: "Inter";
+}
+
+.form label {
+  color: #6d9886;
+  margin: 1%;
+  display: block;
+  font-weight: bold;
+}
+
+.form input {
+  display: inline;
+  margin: 0.5% 1% 2%;
+  border-radius: 10px;
+  height: 2rem;
+  width: 50%;
+  font-family: "Inter";
+  border: solid 1px #6d9886;
+}
+
+.button {
+  height: 2rem;
+  border-radius: 8px;
+  font-family: "Inter";
+  width: 25%;
+  color: #6d9886;
+  font-weight: bold;
+  border: solid 1px #6d9886;
+  margin-right: 2%;
+  cursor: pointer;
+}
+
+.button:hover {
+  background-color: rgb(250, 248, 248);
+}
+
+.actions {
+  margin: 2% 1% 2%;
+}
