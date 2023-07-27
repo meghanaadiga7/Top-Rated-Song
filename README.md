@@ -11,3 +11,5 @@ This application displays top 10 list of songs based on the rating provided by t
 # 2
 
 <img width="1440" alt="Screenshot 2023-07-27 at 10 32 09 PM" src="https://github.com/meghanaadiga7/Top-Rated-Song/assets/106051990/6f80f695-2bd5-413b-bee8-128bbe390765">
+
+
